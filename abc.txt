@@ -8,3 +8,5 @@ public class abc
 }
 yes i am commiting the message 
 and succesfully done by the push and pull commands in GIT.
+once agin iam added something in abc.text
+and commiting the remote repository.
