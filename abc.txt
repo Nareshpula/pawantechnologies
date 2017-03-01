@@ -1,1 +1,8 @@
 haii this new git for learning purpose
+public class abc
+{
+  public static void main(String avg[])
+  {
+    System.out.println("HELLOW WORLD");
+  }
+}
